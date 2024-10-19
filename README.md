@@ -1,5 +1,7 @@
 ### Unicorn Company Analysis
 
+A unicorn company, or unicorn startup, is a private company with a valuation over $1 billion. As of March 2022, there are 1,000 unicorns around the world. Popular former unicorns include Airbnb, Facebook and Google. Variants include a decacorn, valued at over $10 billion, and a hectocorn, valued at over $100 billion. Download the full list today to see each company's valuation, investors, and more.
+
 The sorce of this dataset is Maven Analytics. The dataset has 10 columns and 1074 rows.
 
 Dataset URL: [Unicorn Company Maven Analytics](https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=1000&search=unicorn/)
