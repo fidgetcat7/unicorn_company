@@ -13,4 +13,4 @@ Dataset URL: [Unicorn Company Maven Analytics](https://www.mavenanalytics.io/dat
 4. Which cities appear to be industrial centers? => By SQLife
 5. Which investors have funded the most unicorns?  => By R Programing
 
-You cann see overall presentation on **unicorn data analysis overview**
+You can see overall presentation on **unicorn data analysis overview**
